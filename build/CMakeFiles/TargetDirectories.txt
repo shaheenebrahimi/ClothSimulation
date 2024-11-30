@@ -1,0 +1,11 @@
+/Users/shaheenebrahimi/Developer/ComputerAnimation/A5/build/CMakeFiles/A5.dir
+/Users/shaheenebrahimi/Developer/ComputerAnimation/A5/build/CMakeFiles/install.dir
+/Users/shaheenebrahimi/Developer/ComputerAnimation/A5/build/CMakeFiles/ALL_BUILD.dir
+/Users/shaheenebrahimi/Developer/ComputerAnimation/A5/build/CMakeFiles/ZERO_CHECK.dir
+/Users/shaheenebrahimi/Developer/Library/glfw-3.3.8/debug/CMakeFiles/uninstall.dir
+/Users/shaheenebrahimi/Developer/Library/glfw-3.3.8/debug/CMakeFiles/install.dir
+/Users/shaheenebrahimi/Developer/Library/glfw-3.3.8/debug/CMakeFiles/ALL_BUILD.dir
+/Users/shaheenebrahimi/Developer/Library/glfw-3.3.8/debug/CMakeFiles/ZERO_CHECK.dir
+/Users/shaheenebrahimi/Developer/Library/glfw-3.3.8/debug/src/CMakeFiles/update_mappings.dir
+/Users/shaheenebrahimi/Developer/Library/glfw-3.3.8/debug/src/CMakeFiles/glfw.dir
+/Users/shaheenebrahimi/Developer/Library/glfw-3.3.8/debug/src/CMakeFiles/install.dir
